@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vladikir
-- 👀 I’m interested in Software development projects
+- 👀 I’m interested in Software development | security audit | implementation projects
 - 🌱 I’m currently learning blockchain infrastructure and security essentials.
 - 💞️ I’m looking to collaborate on crypto / oracle / other software development
 - 📫 How to reach me: kirillov dot vladimir at gmail dot com
